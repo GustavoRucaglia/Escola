@@ -1,2 +1,2 @@
 # Escola
-Todos codes e aulas desenvolvida na escola
+Todos codigos e aulas desenvolvida na escola
